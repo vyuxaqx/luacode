@@ -1,1 +1,1 @@
-# luacode
+teleport(20, 30, 20)
