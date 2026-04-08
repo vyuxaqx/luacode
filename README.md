@@ -1,1 +1,1 @@
-teleport(20, 999, 20)
+setAvatarSize(10)
