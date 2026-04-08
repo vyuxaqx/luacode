@@ -1,1 +1,1 @@
-teleport(20, 30, 20)
+teleport(20, 999, 20)
